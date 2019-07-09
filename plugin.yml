@@ -1,0 +1,11 @@
+name: RoyalBackPack
+main: royal.backpack.Main
+version: 1.0
+author: RoyalDevelopmentTeam
+commands:
+   backpack:
+      decription: Open backpack
+permissions:
+   royal.backpack:
+      description: Permission Node
+      default: op
